@@ -1,0 +1,43 @@
+ // anthony custom
+ 
+    html{font-family:sans-serif; font-size: 14p;
+  }
+  
+    body{margin:0;
+    background-color:#ddd;
+    color:#929292;
+    
+    
+    a.slink { 
+    display:inline-block;
+    font-family:sans-serif;
+    font-size: 16px;
+    background-color:#9664CF;
+    color:fff#;
+    }
+    
+    a.slink:hover {
+    display:inline-block;
+    font-family:sans-serif;
+    font-size:18px;
+    background-color:#D5B0FF;
+    color#fff:
+    {
+                    
+    a.menu{
+    display:inline-block
+    font-family:sans-serif;
+    font-size:18px;
+    backgrount-color:#000000;
+    color:#fff;
+    border-style: solid;
+    border-color: red;
+    padding: 5px 5px 5px 5px;
+    border-width 5px 5px 5px 5px;
+    
+    }
+    
+    a.menu:hover {
+    font-family:sans-serif;
+    color;#0000ff;
+    }
